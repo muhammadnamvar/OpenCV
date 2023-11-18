@@ -14,5 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 print("Newwww line")
 print("Newwww line2")
-print("Newwww line3")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
